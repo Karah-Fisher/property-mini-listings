@@ -50,3 +50,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![project interface](image.png)
